@@ -1,0 +1,18 @@
+D:\2015-2\Tesis2\FaceRecProOV\FaceRecProOV\Negocio_IA\bin\Debug\Negocio_IA.dll
+D:\2015-2\Tesis2\FaceRecProOV\FaceRecProOV\Negocio_IA\bin\Debug\Negocio_IA.pdb
+D:\2015-2\Tesis2\FaceRecProOV\FaceRecProOV\Negocio_IA\bin\Debug\Datos_IA.dll
+D:\2015-2\Tesis2\FaceRecProOV\FaceRecProOV\Negocio_IA\bin\Debug\Entidad_IA.dll
+D:\2015-2\Tesis2\FaceRecProOV\FaceRecProOV\Negocio_IA\bin\Debug\Entidad_IA.pdb
+D:\2015-2\Tesis2\FaceRecProOV\FaceRecProOV\Negocio_IA\bin\Debug\Datos_IA.pdb
+D:\2015-2\Tesis2\FaceRecProOV\FaceRecProOV\Negocio_IA\obj\Debug\Negocio_IA.csprojResolveAssemblyReference.cache
+D:\2015-2\Tesis2\FaceRecProOV\FaceRecProOV\Negocio_IA\obj\Debug\Negocio_IA.dll
+D:\2015-2\Tesis2\FaceRecProOV\FaceRecProOV\Negocio_IA\obj\Debug\Negocio_IA.pdb
+C:\Users\luis__000\Documents\Visual Studio 2010\Projects\SolutionTesis\Negocio_IA\bin\Debug\Negocio_IA.dll
+C:\Users\luis__000\Documents\Visual Studio 2010\Projects\SolutionTesis\Negocio_IA\bin\Debug\Negocio_IA.pdb
+C:\Users\luis__000\Documents\Visual Studio 2010\Projects\SolutionTesis\Negocio_IA\bin\Debug\Datos_IA.dll
+C:\Users\luis__000\Documents\Visual Studio 2010\Projects\SolutionTesis\Negocio_IA\bin\Debug\Entidad_IA.dll
+C:\Users\luis__000\Documents\Visual Studio 2010\Projects\SolutionTesis\Negocio_IA\bin\Debug\Entidad_IA.pdb
+C:\Users\luis__000\Documents\Visual Studio 2010\Projects\SolutionTesis\Negocio_IA\bin\Debug\Datos_IA.pdb
+C:\Users\luis__000\Documents\Visual Studio 2010\Projects\SolutionTesis\Negocio_IA\obj\Debug\Negocio_IA.csprojResolveAssemblyReference.cache
+C:\Users\luis__000\Documents\Visual Studio 2010\Projects\SolutionTesis\Negocio_IA\obj\Debug\Negocio_IA.dll
+C:\Users\luis__000\Documents\Visual Studio 2010\Projects\SolutionTesis\Negocio_IA\obj\Debug\Negocio_IA.pdb

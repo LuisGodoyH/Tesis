@@ -1,0 +1,4 @@
+D:\2015-2\Tesis2\FaceRecProOV\Entidad_IA\bin\Debug\Entidad_IA.dll
+D:\2015-2\Tesis2\FaceRecProOV\Entidad_IA\bin\Debug\Entidad_IA.pdb
+D:\2015-2\Tesis2\FaceRecProOV\Entidad_IA\obj\Debug\Entidad_IA.dll
+D:\2015-2\Tesis2\FaceRecProOV\Entidad_IA\obj\Debug\Entidad_IA.pdb

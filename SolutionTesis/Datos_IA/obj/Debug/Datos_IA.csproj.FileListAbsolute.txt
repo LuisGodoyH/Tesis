@@ -1,0 +1,14 @@
+D:\2015-2\Tesis2\FaceRecProOV\FaceRecProOV\Datos_IA\bin\Debug\Datos_IA.dll
+D:\2015-2\Tesis2\FaceRecProOV\FaceRecProOV\Datos_IA\bin\Debug\Datos_IA.pdb
+D:\2015-2\Tesis2\FaceRecProOV\FaceRecProOV\Datos_IA\bin\Debug\Entidad_IA.dll
+D:\2015-2\Tesis2\FaceRecProOV\FaceRecProOV\Datos_IA\bin\Debug\Entidad_IA.pdb
+D:\2015-2\Tesis2\FaceRecProOV\FaceRecProOV\Datos_IA\obj\Debug\Datos_IA.csprojResolveAssemblyReference.cache
+D:\2015-2\Tesis2\FaceRecProOV\FaceRecProOV\Datos_IA\obj\Debug\Datos_IA.dll
+D:\2015-2\Tesis2\FaceRecProOV\FaceRecProOV\Datos_IA\obj\Debug\Datos_IA.pdb
+C:\Users\luis__000\Documents\Visual Studio 2010\Projects\SolutionTesis\Datos_IA\bin\Debug\Datos_IA.dll
+C:\Users\luis__000\Documents\Visual Studio 2010\Projects\SolutionTesis\Datos_IA\bin\Debug\Datos_IA.pdb
+C:\Users\luis__000\Documents\Visual Studio 2010\Projects\SolutionTesis\Datos_IA\bin\Debug\Entidad_IA.dll
+C:\Users\luis__000\Documents\Visual Studio 2010\Projects\SolutionTesis\Datos_IA\bin\Debug\Entidad_IA.pdb
+C:\Users\luis__000\Documents\Visual Studio 2010\Projects\SolutionTesis\Datos_IA\obj\Debug\Datos_IA.csprojResolveAssemblyReference.cache
+C:\Users\luis__000\Documents\Visual Studio 2010\Projects\SolutionTesis\Datos_IA\obj\Debug\Datos_IA.dll
+C:\Users\luis__000\Documents\Visual Studio 2010\Projects\SolutionTesis\Datos_IA\obj\Debug\Datos_IA.pdb
